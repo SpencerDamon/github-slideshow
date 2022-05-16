@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: > "Success is built on 1,000 failures"
 
 ---
 
