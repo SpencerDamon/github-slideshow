@@ -6,6 +6,6 @@ title: > "Success is built on 1,000 failures"
 
 ---
 
-Your text
+Learn by implementing. 
 
 Use the left arrow to go back!
